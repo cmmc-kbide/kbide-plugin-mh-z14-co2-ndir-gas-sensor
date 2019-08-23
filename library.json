@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mh-z14-co2-ndir-gas-sensor",
+  "title": "mh-z14-co2-ndir-gas-sensor",
+  "keywords": "mh-z14-co2-ndir-gas-sensor, esp32, esp8266, arduino",
+  "description": "mh-z14-co2-ndir-gas-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mh-z14-co2-ndir-gas-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mh-z14-co2-ndir-gas-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
